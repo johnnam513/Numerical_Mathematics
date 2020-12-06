@@ -33,3 +33,9 @@
 30. Solve hyperbolic problems
 31. Solve elliptic problem using Gauss-Seidel routine
 32. Finding minimum point using golden sectino algorithm
+
+## Phase_Portrait.py
+#### Phase Portrait for Predator-Prey Model
+
+## gamma_distribution_sampling.py
+#### Sampling gamma distribution using Accept-Reject algorithm and Metropolis-Hastings algorithm
