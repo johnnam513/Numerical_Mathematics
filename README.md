@@ -1,6 +1,6 @@
 # Numerical_Mathematics
 ## Algorithms.py
-This file deals with many algorithms in Numerical Mathematics, just using 'numpy' and few functions from library 'math'. These are lists.
+#### This file deals with many algorithms in Numerical Mathematics, just using 'numpy' and few functions from library 'math'. These are lists. You can use these functions just by downloading the python file.
 1. LU factorization
 2. PLU factorization
 3. Solving linear equation using PLU factorization
