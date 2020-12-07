@@ -39,3 +39,6 @@
 
 ## gamma_distribution_sampling.py
 #### Sampling gamma distribution using Accept-Reject algorithm and Metropolis-Hastings algorithm
+
+## Note
+#### These are outputs while studying 'Mathematical Methods for Industrial and Management Engineering' and 'Introduction to Numerical Analysis' course in Seoul National University.
